@@ -1,0 +1,14 @@
+                   Searching element of List
+ collections class defines the fallowing binary search methods
+
+public static int binarySearch(List l,Object target)
+
+public static int binarySearch(List l,Object target,Comparator c);
+
+
+sucessful returns index
+
+insertion point is the location where we can place target element in sorted list
+
+
+before calling binary earch method compulsory

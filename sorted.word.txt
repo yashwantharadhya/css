@@ -1,0 +1,12 @@
+collections class defines several utility methods for collection object like
+Sorting
+reversing etc..
+
+                  Sorting Element of List
+collections class defines following two methods
+
+1 public static void sort(List l)
+sort based on natural sorting order
+    ... object should be homogenious
+and comparable
+2 . ublic static void sort(List l,comparator)
